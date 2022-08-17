@@ -3,4 +3,19 @@ alteracao feita no git hub
 alteracao feita pelo meu computador
 
 
-sadasasds
+PASSO A PASSO DO COMMIT
+
+1 voce altera o arquivo no computador
+
+2 voce roda o git add . para adicionar o arquivo na fila do commit
+
+3 voce roda o git commit -m "nome da alteraçao"
+
+4 isso ira adicionar a alteraçao na fila de alteraçoes para enviar para o git hub
+
+5 git push para enviar para o git hub
+( git pull para baixar as alteraçoes do git para o pc)
+
+ 
+
+
